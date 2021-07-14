@@ -1,2 +1,2 @@
 # Intern-HighRadius
-Need to update and connect with frontend soon.
+Need to update Frontend soon.
